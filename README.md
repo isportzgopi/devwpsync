@@ -1,0 +1,2 @@
+# devwpsync
+wordpress
